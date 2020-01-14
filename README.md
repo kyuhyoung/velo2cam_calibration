@@ -6,6 +6,7 @@ Package developed at [Intelligent Systems Laboratory](http://www.uc3m.es/islab),
 
 ![gazebo screenshot](screenshots/velo2cam_calibration_setup.png)
 
+
 # Nodes #
 ## stereo_pattern ##
 ### Subscribed Topics ###
